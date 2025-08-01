@@ -6,7 +6,7 @@ Hola, soy **Estudiante de Análisis y Desarrollo de Software** apasionado por la
 
 ---
 
-## 🧠 Sobre mí
+##🧠 Sobre mí
 
 - 🎓 Estudiante de **Análisis y Desarrollo de Software**
 - ⚙️ Con experiencia en:
